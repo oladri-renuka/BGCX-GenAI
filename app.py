@@ -16,7 +16,7 @@ with col1:
 
 with col2:
     st.image(logo, use_column_width=True)
-    st.markdown("<h1 style='text-align: center;'>BCG GenAI Predefined Chatbot</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center;'>BCGX GenAI Predefined Chatbot</h1>", unsafe_allow_html=True)
 
 with col3:
     st.write("")
