@@ -31,6 +31,6 @@ The BCG GenAI Chatbot provides a user-friendly interface for interacting with fi
 
 You can access the BCG GenAI Chatbot and explore its features at the following link:
 
-[BCG GenAI Chatbot](https://bcg-genai-forage-88j28nnp2jnav4ydxnazme.streamlit.app/)
+[BCG GenAI Chatbot](https://bgcx-genai-wjyk2icfvqh8anrb6u9pk6.streamlit.app/)
 
 
