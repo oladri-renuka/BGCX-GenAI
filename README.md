@@ -1,4 +1,4 @@
-# BCG GenAI Chatbot
+# BCGX GenAI Chatbot
 
 ## Overview
 
