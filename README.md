@@ -25,7 +25,7 @@ The BCG GenAI Chatbot provides a user-friendly interface for interacting with fi
 
 - **Interactive Dropdown**: Users can choose from predefined financial queries.
 - **Detailed Responses**: The chatbot provides comprehensive answers based on the analyzed financial data.
-- **User-Friendly Interface**: Includes a centered title and the BCG logo for a professional appearance.
+- **User-Friendly Interface**: Includes a centered title and the BCGX logo for a professional appearance.
 
 ## Access the Application
 
