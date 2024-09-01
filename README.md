@@ -2,7 +2,7 @@
 
 ## Overview
 
-The BCG GenAI Chatbot is a Streamlit-based application designed to provide insightful and detailed responses to common financial queries. This application leverages financial data analysis to answer questions about various financial metrics, making complex data more accessible and understandable.
+The BCGX GenAI Chatbot is a Streamlit-based application designed to provide insightful and detailed responses to common financial queries. This application leverages financial data analysis to answer questions about various financial metrics, making complex data more accessible and understandable.
 
 ## Analysis Summary
 
@@ -29,8 +29,8 @@ The BCG GenAI Chatbot provides a user-friendly interface for interacting with fi
 
 ## Access the Application
 
-You can access the BCG GenAI Chatbot and explore its features at the following link:
+You can access the BCGX GenAI Chatbot and explore its features at the following link:
 
-[BCG GenAI Chatbot](https://bgcx-genai-wjyk2icfvqh8anrb6u9pk6.streamlit.app/)
+[BCGX GenAI Chatbot](https://bgcx-genai-wjyk2icfvqh8anrb6u9pk6.streamlit.app/)
 
 
